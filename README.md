@@ -5,13 +5,13 @@ CLI-app
 https://drive.google.com/drive/folders/1PcS4jILD07OayHeXgF6tCabceQXiFkH0?usp=share_link
 
 # Link
-[https://ibb.co/4JTzBnN](https://ibb.co/4JTzBnN)
+https://ibb.co/4JTzBnN
 
 # Get by Id
-[https://ibb.co/k0nVhh3](https://ibb.co/k0nVhh3)
+https://ibb.co/k0nVhh3
 
 # Add
 [https://ibb.co/4JTzBnN
-](https://ibb.co/QNpZTyN)
+]
 # Remove
 [https://ibb.co/q5ry3YP](https://ibb.co/q5ry3YP)
