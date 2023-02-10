@@ -11,7 +11,6 @@ https://ibb.co/4JTzBnN
 https://ibb.co/k0nVhh3
 
 # Add
-[https://ibb.co/4JTzBnN
-]
+https://ibb.co/4JTzBnN
 # Remove
-[https://ibb.co/q5ry3YP](https://ibb.co/q5ry3YP)
+https://ibb.co/q5ry3YP
